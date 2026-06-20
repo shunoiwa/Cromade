@@ -1,4 +1,6 @@
-# Cromade
+# <img width="28" height="28" alt="icon" src="https://github.com/user-attachments/assets/ac4eb3d2-c4d3-4217-ba61-ce778dc44fa9" /> Cromade 
+
+
 強制遷移を粛清する安心ブラウザ
 
 ## 特長
